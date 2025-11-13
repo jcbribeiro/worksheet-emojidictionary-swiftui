@@ -1,6 +1,6 @@
 ## SwiftUI Practical Worksheet: Building an Emoji Dictionary App
 
-This worksheet is the SwiftUI version of the **Emoji Dictionary** you built with **storyboards / UIKit**. The goal is to build a similar app, but in a **declarative** way, learning the SwiftUI equivalents of what you already know.
+This worksheet is the SwiftUI version of the **Emoji Dictionary**. The app displays list of emojis, each with a symbol, name, description, and usage; and allows adding, removing or editing and emoji.
 
 ### 0. Project Setup
 
